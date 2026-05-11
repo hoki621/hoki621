@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 ## Status
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats-xi-nine-88.vercel.app/api/?username=hokkey621&show_icons=true&count_private=true&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats-xi-nine-88.vercel.app/api/?username=hoki621&show_icons=true&count_private=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats-xi-nine-88.vercel.app/api/top-langs/?username=hokkey621&theme=tokyonight&count_private=true&layout=compact" />
+  <img align="left" src="https://github-readme-stats-xi-nine-88.vercel.app/api/top-langs/?username=hoki621&theme=tokyonight&count_private=true&layout=compact" />
 </a>
