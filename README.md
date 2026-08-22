@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,pytorch,qt,raspberrypi,tensorflow,vim,vscode)](https://skillicons.dev)
 
 ## Status
-![](./profile-3d-contrib/profile-3d-contrib/profile-season.svg)
+![./profile-3d-contrib/profile-3d-contrib/profile-season.svg](https://github.com/hoki621/hoki621/blob/main/profile-3d-contrib/profile-season-animate.svg))
