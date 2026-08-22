@@ -28,9 +28,4 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,pytorch,qt,raspberrypi,tensorflow,vim,vscode)](https://skillicons.dev)
 
 ## Status
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats-q2qj.vercel.app/api/?username=hoki621&show_icons=true&count_private=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats-q2qj.vercel.app/api/top-langs/?username=hoki621&theme=tokyonight&count_private=true&layout=compact" />
-</a>
+![](./profile-3d-contrib/profile-3d-contrib/profile-season.svg)
